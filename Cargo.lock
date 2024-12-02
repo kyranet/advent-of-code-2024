@@ -9,3 +9,11 @@ version = "0.1.0"
 [[package]]
 name = "day-01b-historian-hysteria"
 version = "0.1.0"
+
+[[package]]
+name = "day-02a-red-nosed-reports"
+version = "0.1.0"
+
+[[package]]
+name = "day-02b-red-nosed-reports"
+version = "0.1.0"
