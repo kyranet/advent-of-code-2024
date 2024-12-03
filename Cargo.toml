@@ -4,5 +4,7 @@ members = [
 	"day-01b-historian-hysteria",
 	"day-02a-red-nosed-reports",
 	"day-02b-red-nosed-reports",
+	"day-03a-mull-it-over",
+	"day-03b-mull-it-over",
 ]
 resolver = "2"
