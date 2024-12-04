@@ -25,3 +25,11 @@ version = "0.1.0"
 [[package]]
 name = "day-03b-mull-it-over"
 version = "0.1.0"
+
+[[package]]
+name = "day-04a-ceres-search"
+version = "0.1.0"
+
+[[package]]
+name = "day-04b-ceres-search"
+version = "0.1.0"
